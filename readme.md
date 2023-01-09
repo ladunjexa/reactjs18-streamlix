@@ -72,8 +72,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/Zexercise-mockup-1.png" height="auto" width="35%"/>
-  <img src="readme_assets/Zexercise-mockup-2.png" height="auto" width="36%"/>
+  <img src="readme_assets/Streamlix-mockup.png" height="auto" width="100%"/>
 </div>
 
 <br />
