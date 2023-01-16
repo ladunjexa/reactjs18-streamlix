@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/Streamlix-App/">View Demo</a>
+    <a href="https://streamlix-app.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Streamlix-App">Documentation</a>
   <span> · </span>
